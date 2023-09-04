@@ -1,0 +1,60 @@
+.b1{
+        border-radius: 10px;
+        border:none;
+        background-color: #a6a6a4;
+        color: white;
+        
+}
+.b2{
+    border-radius: 10px;
+    border: none;background-color: #E75F00;
+    margin-left: 30px;
+}
+.b3{
+    border-radius: 10px;
+    border: none;
+    background-color: #E75F00;
+}
+.b4{
+    border-radius: 10px;
+    border: none;
+    background-color: #E75F00;
+}
+.img1{
+    margin-left: 30px;
+    width: 30px;
+    margin-top: 35px;
+}
+.img2{
+    margin-left: 25px;
+    width: 30px;
+    margin-top: 35px;
+}
+.img3{
+    margin-left: 25px;
+    width: 30px;
+    margin-top: 35px;;
+}
+.d1{
+    color: white;
+}
+.d2{
+    color: #E75F00;
+}
+.d3{
+    color: #a6a6a4;
+}
+.d4{
+    color: white;
+}
+.topic{
+    height: 1276px;
+    width: 1390px;
+    background:url("background.png");
+    background-size:cover;
+    padding-top: 80px;
+    padding-left: 71px;
+}
+.p5{
+    border-radius: 10px;
+}
